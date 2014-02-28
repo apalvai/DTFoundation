@@ -2644,6 +2644,7 @@
 				GCC_PREFIX_HEADER = "Core/DTFoundation-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
 				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = DTFoundation;
 				PUBLIC_HEADERS_FOLDER_PATH = ../../DTFoundation;
 				SDKROOT = iphoneos;
