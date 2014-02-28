@@ -2644,7 +2644,6 @@
 				GCC_PREFIX_HEADER = "Core/DTFoundation-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
 				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
-				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = DTFoundation;
 				PUBLIC_HEADERS_FOLDER_PATH = ../../DTFoundation;
 				SDKROOT = iphoneos;
@@ -3709,7 +3708,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = /usr/include/libxml2;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
-				ONLY_ACTIVE_ARCH = YES;
+				ONLY_ACTIVE_ARCH = NO;
 			};
 			name = Debug;
 		};
