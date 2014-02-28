@@ -2643,6 +2643,7 @@
 				DSTROOT = /tmp/DTFoundation.dst;
 				GCC_PREFIX_HEADER = "Core/DTFoundation-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
+				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
 				PRODUCT_NAME = DTFoundation;
 				PUBLIC_HEADERS_FOLDER_PATH = ../../DTFoundation;
 				SDKROOT = iphoneos;
@@ -2657,6 +2658,7 @@
 				DSTROOT = /tmp/DTFoundation.dst;
 				GCC_PREFIX_HEADER = "Core/DTFoundation-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
+				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
 				PRODUCT_NAME = DTFoundation;
 				PUBLIC_HEADERS_FOLDER_PATH = ../../DTFoundation;
 				SDKROOT = iphoneos;
@@ -2775,6 +2777,7 @@
 				DSTROOT = /tmp/DTFoundation.dst;
 				GCC_PREFIX_HEADER = "Core/DTFoundation-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
+				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
 				PRODUCT_NAME = DTFoundation;
 				PUBLIC_HEADERS_FOLDER_PATH = ../../DTFoundation;
 				SDKROOT = iphoneos;
@@ -2877,6 +2880,7 @@
 				DSTROOT = /tmp/DTHTMLParser.dst;
 				GCC_PREFIX_HEADER = "Core/DTFoundation-Prefix.pch";
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
 				PRODUCT_NAME = DTHTMLParser_iOS;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -3566,6 +3570,7 @@
 				DSTROOT = /tmp/DTHTMLParser.dst;
 				GCC_PREFIX_HEADER = "Core/DTFoundation-Prefix.pch";
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
 				PRODUCT_NAME = DTHTMLParser_iOS;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -3584,6 +3589,7 @@
 				DSTROOT = /tmp/DTHTMLParser.dst;
 				GCC_PREFIX_HEADER = "Core/DTFoundation-Prefix.pch";
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
 				PRODUCT_NAME = DTHTMLParser_iOS;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
